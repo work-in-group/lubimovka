@@ -1,0 +1,9 @@
+.performance__shedule {
+  display: flex;
+  flex-direction: row;
+  font-family: 'Formular';
+  font-style: normal;
+  font-weight: 300;
+  font-size: 20px;
+  line-height: 28px;
+}
