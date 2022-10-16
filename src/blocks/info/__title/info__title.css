@@ -1,0 +1,10 @@
+.info__title {
+    max-width: 450px;
+    font-family: 'Neue Machina', sans-serif;
+    font-style: normal;
+    font-weight: 400;
+    font-size: 72px;
+    line-height: 70px;
+    margin-top: 26px;
+    margin-bottom: 65px;
+}

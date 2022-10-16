@@ -1,0 +1,9 @@
+.info__button-text {
+    font-family: 'Formular', sans-serif;
+    font-style: normal;
+    font-weight: 300;
+    font-size: 16px;
+    line-height: 14px;
+    text-transform: uppercase;
+    margin-right: 10px;
+}

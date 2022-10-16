@@ -1,0 +1,14 @@
+.info__button {
+    width: 120px;
+    height: 30px;
+    background-image: url("../../../images/left-pointer.svg");
+    background-position: right;
+    background-repeat: no-repeat;
+    margin: 0 27px;
+    background-color: white;
+    border-right: 1px solid #242424;
+    border-bottom: 1px solid #242424;
+    border-left: 0;
+    border-top: 0;
+    padding: 0;
+}
