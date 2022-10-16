@@ -17,3 +17,20 @@
 @import url(../blocks/performance/__about-text/perfomance__about-text.css);
 @import url(../blocks/performance/__tickets/perfomance__tickets.css);
 @import url(../blocks/performance/__tickets-text/perfomance__tickets-text.css);
+
+@import url(../blocks/plays/plays.css);
+@import url(../blocks/plays/__title/plays__title.css);
+@import url(../blocks/plays/__cards/plays__cards.css);
+@import url(../blocks/plays/__card/plays__card.css);
+@import url(../blocks/plays/__name/plays__name.css);
+@import url(../blocks/plays/__author/plays__author.css);
+@import url(../blocks/plays/__place/plays__place.css);
+@import url(../blocks/plays/__year/plays__year.css);
+
+@import url();
+@import url();
+@import url();
+@import url();
+@import url();
+@import url();
+@import url();
