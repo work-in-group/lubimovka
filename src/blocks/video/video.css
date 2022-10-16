@@ -5,3 +5,10 @@
   align-items: center;
   background-color: #E5E5E5;
 }
+
+@media screen and (max-width: 768px) {
+  .video {
+    width: 88.32%;
+    padding: 0 5.84%;
+  }
+}

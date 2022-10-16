@@ -8,3 +8,12 @@
   line-height: 1;
   color: #242424;
 }
+
+@media screen and (max-width: 768px) {
+  .video__title {
+    font-size: 28px;
+    line-height: 1.14;
+    max-width: 366px;
+    margin-top: 57px;
+  }
+}
