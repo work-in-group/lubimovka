@@ -22,3 +22,5 @@
 @import url(../blocks/info/__image/info__image.css);
 
 @import url(../blocks/about-project/about-project.css);
+@import url(../blocks/about-project/__title/about-project__title.css);
+@import url(../blocks/about-project/__text/about-project__text.css);

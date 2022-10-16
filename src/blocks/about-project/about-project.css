@@ -1,0 +1,6 @@
+.about-project {
+    background-color: #B7C09D;
+    display: flex;
+    flex-direction: column;
+    min-height: 396px;
+}

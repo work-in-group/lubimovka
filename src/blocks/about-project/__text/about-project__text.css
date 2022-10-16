@@ -1,0 +1,11 @@
+.about-project__text {
+    font-family: 'Formular', sans-serif;
+    font-style: normal;
+    font-weight: 300;
+    font-size: 20px;
+    line-height: 28px;
+    max-width: 510px;
+    margin-top: 17px;
+    margin-bottom: 0;
+    margin-left: 420px;
+}
