@@ -1,3 +1,13 @@
 .header__support {
     display: flex;
+    max-width: 150px;
+    background-color: transparent;
+    padding: 0;
+    border: 0;
+    cursor: pointer;
+    transition: opacity .4s ease-in-out;
+}
+
+.header__support:hover {
+    opacity: 0.7;
 }
