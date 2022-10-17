@@ -34,3 +34,35 @@
 @import url(../blocks/staff/__image/staff__image.css);
 @import url(../blocks/staff/__name/staff__name.css);
 @import url(../blocks/staff/__about/staff__about.css);
+
+@import url(../blocks/interactive/interactive.css);
+@import url(../blocks/interactive/__youtube/interactive__youtube.css);
+@import url(../blocks/interactive/__title/interactive__title.css);
+@import url(../blocks/interactive/__subtitle/intetactive__subtitle.css);
+@import url(../blocks/interactive/__button/interactive__button.css);
+@import url(../blocks/interactive/__link/interactive__link.css);
+@import url(../blocks/interactive/__arrow/interactive__arrow.css);
+
+@import url(../blocks/cooperation/cooperation.css);
+@import url(../blocks/cooperation/__asterisk/cooperation__asterisk.css);
+@import url(../blocks/cooperation/__title/cooperation__title.css);
+@import url(../blocks/cooperation/__subtitle/cooperation__subtitle.css);
+@import url(../blocks/cooperation/__mail/cooperation__mail.css);
+@import url(../blocks/cooperation/__link/cooperation__link.css);
+
+@import url(../blocks/footer/footer.css);
+@import url(../blocks/footer/__logo/footer__logo.css);
+@import url(../blocks/footer/__partners/footer__partners.css);
+@import url(../blocks/footer/__partner/footer__partner.css);
+@import url(../blocks/footer/__partner-logo/footer__partner-logo.css);
+@import url(../blocks/footer/__about/footer__about.css);
+@import url(../blocks/footer/__about-links/footer__about-links.css);
+@import url(../blocks/footer/__about-link/footer__about-link.css);
+@import url(../blocks/footer/__info/footer__info.css);
+@import url(../blocks/footer/__info-address/footer__info-address.css);
+@import url(../blocks/footer/__address/footer__address.css);
+@import url(../blocks/footer/__icon/footer__icon.css);
+@import url(../blocks/footer/__conf/footer__conf.css);
+@import url(../blocks/footer/__authors/footer__authors.css);
+@import url(../blocks/footer/__developers/footer__developers.css);
+
