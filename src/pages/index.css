@@ -25,3 +25,67 @@
 @import url(../blocks/about-project/about-project.css);
 @import url(../blocks/about-project/__title/about-project__title.css);
 @import url(../blocks/about-project/__text/about-project__text.css);
+
+@import url(../blocks/performance/performance.css);
+@import url(../blocks/performance/__title/perfomance__title.css);
+@import url(../blocks/performance/__image/performance__image.css);
+@import url(../blocks/performance/__shedule/performance__shedule.css);
+@import url(../blocks/performance/__date/perfomance__date.css);
+@import url(../blocks/performance/__time/perfomance__time.css);
+@import url(../blocks/performance/__name/perfomance__name.css);
+@import url(../blocks/performance/__info/performance__info.css);
+@import url(../blocks/performance/__playwright/perfomance__playwright.css);
+@import url(../blocks/performance/__director/perfomance__director.css);
+@import url(../blocks/performance/__description/perfomance__description.css);
+@import url(../blocks/performance/__about/perfomance__about.css);
+@import url(../blocks/performance/__about-text/perfomance__about-text.css);
+@import url(../blocks/performance/__tickets/perfomance__tickets.css);
+@import url(../blocks/performance/__tickets-text/perfomance__tickets-text.css);
+
+@import url(../blocks/plays/plays.css);
+@import url(../blocks/plays/__title/plays__title.css);
+@import url(../blocks/plays/__cards/plays__cards.css);
+@import url(../blocks/plays/__card/plays__card.css);
+@import url(../blocks/plays/__name/plays__name.css);
+@import url(../blocks/plays/__author/plays__author.css);
+@import url(../blocks/plays/__place/plays__place.css);
+@import url(../blocks/plays/__year/plays__year.css);
+
+@import url(../blocks/staff/staff.css);
+@import url(../blocks/staff/__title/staff__title.css);
+@import url(../blocks/staff/__cards/staff__cards.css);
+@import url(../blocks/staff/__card/staff__card.css);
+@import url(../blocks/staff/__image/staff__image.css);
+@import url(../blocks/staff/__name/staff__name.css);
+@import url(../blocks/staff/__about/staff__about.css);
+
+@import url(../blocks/interactive/interactive.css);
+@import url(../blocks/interactive/__youtube/interactive__youtube.css);
+@import url(../blocks/interactive/__title/interactive__title.css);
+@import url(../blocks/interactive/__subtitle/intetactive__subtitle.css);
+@import url(../blocks/interactive/__button/interactive__button.css);
+@import url(../blocks/interactive/__link/interactive__link.css);
+@import url(../blocks/interactive/__arrow/interactive__arrow.css);
+
+@import url(../blocks/cooperation/cooperation.css);
+@import url(../blocks/cooperation/__asterisk/cooperation__asterisk.css);
+@import url(../blocks/cooperation/__title/cooperation__title.css);
+@import url(../blocks/cooperation/__subtitle/cooperation__subtitle.css);
+@import url(../blocks/cooperation/__mail/cooperation__mail.css);
+@import url(../blocks/cooperation/__link/cooperation__link.css);
+
+@import url(../blocks/footer/footer.css);
+@import url(../blocks/footer/__logo/footer__logo.css);
+@import url(../blocks/footer/__partners/footer__partners.css);
+@import url(../blocks/footer/__partner/footer__partner.css);
+@import url(../blocks/footer/__partner-logo/footer__partner-logo.css);
+@import url(../blocks/footer/__about/footer__about.css);
+@import url(../blocks/footer/__about-links/footer__about-links.css);
+@import url(../blocks/footer/__about-link/footer__about-link.css);
+@import url(../blocks/footer/__info/footer__info.css);
+@import url(../blocks/footer/__info-address/footer__info-address.css);
+@import url(../blocks/footer/__address/footer__address.css);
+@import url(../blocks/footer/__icon/footer__icon.css);
+@import url(../blocks/footer/__conf/footer__conf.css);
+@import url(../blocks/footer/__authors/footer__authors.css);
+@import url(../blocks/footer/__developers/footer__developers.css);

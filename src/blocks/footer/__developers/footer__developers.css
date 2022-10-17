@@ -1,0 +1,7 @@
+.footer__developers {
+    display: flex;
+}
+
+.footer__developers p {
+    margin: 0 32px 0 0;
+}
