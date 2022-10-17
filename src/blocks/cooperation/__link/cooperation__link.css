@@ -1,0 +1,10 @@
+.cooperation__link {
+    color: #242424;
+    transition: background-color 0.5s ease-in-out;
+}
+
+.cooperation__link:hover {
+    background-color: #242424;
+    color: #ECEBE8;
+    text-decoration: none;
+}
