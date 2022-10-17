@@ -11,3 +11,35 @@
 @import url(../blocks/video/__wrapper/video__wrapper.css);
 @import url(../blocks/video/__wrapper/_type/video__wrapper_type_two-videos.css);
 @import url(../blocks/video/__wrapper/_type/video__wrapper_type_three-videos.css);
+@import url(../blocks/performance/performance.css);
+@import url(../blocks/performance/__title/perfomance__title.css);
+@import url(../blocks/performance/__image/performance__image.css);
+@import url(../blocks/performance/__shedule/performance__shedule.css);
+@import url(../blocks/performance/__date/perfomance__date.css);
+@import url(../blocks/performance/__time/perfomance__time.css);
+@import url(../blocks/performance/__name/perfomance__name.css);
+@import url(../blocks/performance/__info/performance__info.css);
+@import url(../blocks/performance/__playwright/perfomance__playwright.css);
+@import url(../blocks/performance/__director/perfomance__director.css);
+@import url(../blocks/performance/__description/perfomance__description.css);
+@import url(../blocks/performance/__about/perfomance__about.css);
+@import url(../blocks/performance/__about-text/perfomance__about-text.css);
+@import url(../blocks/performance/__tickets/perfomance__tickets.css);
+@import url(../blocks/performance/__tickets-text/perfomance__tickets-text.css);
+
+@import url(../blocks/plays/plays.css);
+@import url(../blocks/plays/__title/plays__title.css);
+@import url(../blocks/plays/__cards/plays__cards.css);
+@import url(../blocks/plays/__card/plays__card.css);
+@import url(../blocks/plays/__name/plays__name.css);
+@import url(../blocks/plays/__author/plays__author.css);
+@import url(../blocks/plays/__place/plays__place.css);
+@import url(../blocks/plays/__year/plays__year.css);
+
+@import url(../blocks/staff/staff.css);
+@import url(../blocks/staff/__title/staff__title.css);
+@import url(../blocks/staff/__cards/staff__cards.css);
+@import url(../blocks/staff/__card/staff__card.css);
+@import url(../blocks/staff/__image/staff__image.css);
+@import url(../blocks/staff/__name/staff__name.css);
+@import url(../blocks/staff/__about/staff__about.css);
