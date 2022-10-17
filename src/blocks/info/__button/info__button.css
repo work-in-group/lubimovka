@@ -1,0 +1,32 @@
+.info__button {
+    width: 120px;
+    height: 30px;
+    background-repeat: no-repeat;
+    margin: 0 27px;
+    background-color: transparent;
+    border-right: 1px solid #242424;
+    border-bottom: 1px solid #242424;
+    border-left: 0;
+    border-top: 0;
+    padding: 0;
+    background-image: linear-gradient(to left,transparent,transparent 50%,#242424 50%,#242424);
+    background-position: 100% 0;
+    background-size: 200% 100%;
+    cursor: pointer;
+    display: flex;
+    align-items: center;
+    justify-content: flex-end;
+}
+
+.info__button:hover {
+    transition: all .3s ease-in;
+    background-position: 0 0;
+    color: #ECEBE8;
+    stroke: #ECEBE8;
+    fill: #ECEBE8;
+}
+
+.info__button:active {
+    transition: all .1s ease-in;
+    transform: scale(1.03);
+}

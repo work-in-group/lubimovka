@@ -1,6 +1,8 @@
 .page {
     display: flex;
     flex-direction: column;
+    background-color: #E5E5E5;
+    color: #242424;
     margin: 0 auto;
     min-width: 320px;
     -webkit-font-smoothing: antialiased;

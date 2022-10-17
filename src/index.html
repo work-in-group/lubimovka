@@ -1,5 +1,5 @@
 <!DOCTYPE html>
-<html lang="ru">
+<html lang="ru" xmlns="http://www.w3.org/1999/html">
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1">
@@ -8,14 +8,53 @@
 </head>
 <body class="body">
 <div class="page">
-    <header class="header">
-
-    </header>
-    <main class="main">
-        <section class="info">
-
-        </section>
-        <section class="about-project">
+  <header class="header">
+    <a class="header__logo-link" href="#"><img class="header__logo" src="./images/header-icon.svg" alt="Лого"></a>
+    <section class="header__menu">
+      <a class="header__item">Афиша</a>
+      <a class="header__item">Библиотека</a>
+      <a class="header__item">Проекты</a>
+      <a class="header__item">История</a>
+      <a class="header__item">Блог</a>
+      <a class="header__item">Новости</a>
+      <a class="header__item">О фестивале</a>
+      <a class="header__item">Контакты</a>
+    </section>
+    <section class="header__links">
+      <a class="header__link">fb</a>
+      <a class="header__link">inst</a>
+      <a class="header__link">ytube</a>
+      <a class="header__link">tlgrm</a>
+      <a class="header__link">vk</a>
+    </section>
+    <button class="header__support">
+      <span class="header__plus"></span>
+      <span class="header__plus-text">поддержать</span>
+    </button>
+  </header>
+  <main class="main">
+    <section class="info">
+      <button class="info__button">
+        <span class="info__button-text">Проекты</span>
+        <p>
+          <svg width="25" height="25" viewBox="0 0 25 25" xmlns="http://www.w3.org/2000/svg">
+            <path fill-rule="evenodd" clip-rule="evenodd" d="M4 12.5234L4.72483 11.7986L10.5234 6L11.2263
+            6.70287L5.90563 12.0235L25 12.0235L25 13.0235L5.94976 13.0235L11.2014 18.2752L10.4766 19L4.70287
+            13.2263L4 12.5234Z"/>
+          </svg>
+        </p>
+      </button>
+      <p class="info__text">Межсезонные читки и обсуждение пьес из списка отмеченных отборщиками Любимовки.</p>
+      <div class="info__container">
+        <h1 class="info__title">Любимовка. Ещё</h1>
+        <img class="info__image" src="./images/info-image.jpg" alt="Люди на фестивале Любимовка">
+      </div>
+    </section>
+    <section class="about-project">
+      <h2 class="about-project__title">О проекте</h2>
+      <p class="about-project__text">За первый сезон проекта организаторы провели 17 мероприятий вместе с режиссёрами и
+        актёрами московских театров: Театра.doc, Театрального Центра им. Вс. Мейерхольда, Гоголь-центра, Электротеатра
+        «Станиславский», Ленкома.</p>
     </section>
     <section class="video">
       <h3 class="video__title">Заголовок блока с видео</h3>
@@ -41,7 +80,7 @@
         </section>
         <section class="two-performances">
         </section>
-    
+
         <section class="performance">
       <h1 class="perfomance__title">Заголовок блока с одним спектаклем</h1>
       <img src="./images/perfomance-pro-linya.jpg" alt="Про линя" class="performance__image">

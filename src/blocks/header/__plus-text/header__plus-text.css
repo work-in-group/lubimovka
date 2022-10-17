@@ -1,0 +1,9 @@
+.header__plus-text {
+    font-family: 'Formular', sans-serif;
+    font-style: normal;
+    font-weight: 300;
+    font-size: 14px;
+    line-height: 1.2;
+    text-transform: uppercase;
+    margin: 11px 0 0 0;
+}
