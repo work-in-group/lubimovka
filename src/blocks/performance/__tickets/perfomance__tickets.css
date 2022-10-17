@@ -1,0 +1,15 @@
+.perfomance__tickets {
+  align-items: center;
+  border: 1px solid #242424;
+  border-top: 0;
+  border-right: 0;
+  background-color: #E5E5E5;
+  display: flex;
+  font-family: 'Formular';
+  font-style: normal;
+  font-weight: 300;
+  font-size: 16px;
+  line-height: 14px;
+  margin: 0;
+  padding: 0;
+}
