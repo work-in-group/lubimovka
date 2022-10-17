@@ -1,0 +1,8 @@
+.footer__about-link {
+    text-decoration: none;
+    color: #242424;
+}
+
+.footer__about-link:hover {
+    text-decoration: underline;
+}

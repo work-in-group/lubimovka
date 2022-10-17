@@ -1,0 +1,11 @@
+.footer__about-links {
+    display: flex;
+    flex-direction: column;
+    flex-basis: 20%;
+    height: 30%;
+    gap: 15px;
+}
+
+.footer__about-links:last-child {
+    min-width: 189px;
+}

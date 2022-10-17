@@ -1,0 +1,10 @@
+.interactive__subtitle {
+    font-family: 'FormularLight', 'Inter','sans-serif';
+    color: #242424;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 20px;
+    line-height: 28px;
+    max-width: 410px;
+    margin: 20px 0 0 0;
+}

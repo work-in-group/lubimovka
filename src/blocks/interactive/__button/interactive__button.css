@@ -1,0 +1,33 @@
+.interactive__button {
+    font-family: 'FormularLight', 'Inter','sans-serif';
+    box-sizing: border-box;
+    color: #242424;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 16px;
+    line-height: 22px;
+    border: 1px solid black;
+    box-shadow: 0 4px 4px 0 rgba(0, 0, 0, 0.25);
+    text-decoration: none;
+    display: flex;
+    width: 298px;
+    height: 56px;
+    justify-content: space-between;
+    text-transform: uppercase;
+    text-align:center;
+    margin:30px 0;
+    background-image: linear-gradient(to left,transparent,transparent 50%,#242424 50%,#242424);
+    background-position: 100% 0;
+    background-size: 200% 100%;
+}
+
+.interactive__button:hover {
+    transition: all .3s ease-in;
+    background-position: 0 0;
+    color: #ECEBE8;
+}
+
+.interactive__button:active {
+    transition: all .1s ease-in;
+    transform: scale(1.03);
+}
