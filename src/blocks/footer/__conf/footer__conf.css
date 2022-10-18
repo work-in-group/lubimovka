@@ -1,0 +1,8 @@
+.footer__conf {
+    display: flex;
+    gap: 32px;
+}
+
+.footer__conf p {
+    margin: 0;
+}

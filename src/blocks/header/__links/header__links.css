@@ -1,0 +1,11 @@
+.header__links {
+    list-style: none;
+    display: grid;
+    grid-template-columns: repeat(auto-fit, minmax(15px, max-content));
+    min-width: 205px;
+    margin: 0;
+    gap: 16px;
+    border-right: 1px solid #242424;
+    border-left: 1px solid #242424;
+    padding: 0 25px;
+}

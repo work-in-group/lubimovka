@@ -1,0 +1,8 @@
+.interactive {
+    display: flex;
+    flex-direction: column;
+    align-content: center;
+    margin: 0;
+    padding: 71px 29px 141px 353px;
+    background-color: #B7C09D;
+}

@@ -1,0 +1,13 @@
+.header__link {
+    font-family: 'Formular', sans-serif;
+    font-style: normal;
+    font-weight: 300;
+    font-size: 16px;
+    line-height: 1.2;
+    margin-top: 11px;
+    cursor: pointer;
+    transition: opacity .4s ease-in-out;
+}
+.header__link:hover {
+    opacity: 0.7;
+}
