@@ -1,0 +1,5 @@
+.staff__image {
+  height: 265px;
+  width: 210px;
+  object-fit: cover;
+}

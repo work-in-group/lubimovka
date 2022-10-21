@@ -1,0 +1,8 @@
+.plays__card {
+  position: relative;
+  margin-left: 30px;
+}
+
+.plays__card:first-of-type {
+  margin-left: 0;
+}
