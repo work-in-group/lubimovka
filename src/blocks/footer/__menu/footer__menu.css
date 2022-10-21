@@ -1,0 +1,29 @@
+.footer__menu {
+    display: none;
+}
+
+@media screen and (max-width: 414px){
+    .footer__menu {
+        display: block;
+        position: absolute;
+        bottom: -1102px;
+        right: 6px;
+        cursor: pointer;
+    }
+}
+
+@media screen and (max-width: 337px){
+    .footer__menu {
+        bottom: -1155px;
+    }
+}
+
+@media screen and (min-width: 330px){
+    .footer__menu {
+        bottom: -1095px;
+    }
+}
+
+
+
+

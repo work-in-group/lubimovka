@@ -1,5 +1,11 @@
 .footer__icon {
-    width: 27px;
-    height: 25px;
     margin: 0 4px 0 0;
+    align-self: flex-start;
+}
+
+@media screen and (max-width: 880px) {
+    .footer__icon {
+        margin: 0;
+        align-self: center;
+    }
 }

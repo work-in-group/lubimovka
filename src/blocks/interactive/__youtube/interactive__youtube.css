@@ -3,3 +3,29 @@
     align-items: center;
     gap: 101px;
 }
+
+@media screen and (max-width: 1280px) {
+    .interactive__youtube {
+        gap: 85px;
+    }
+}
+
+@media screen and (max-width: 1140px) {
+    .interactive__youtube {
+        gap: 75px;
+    }
+}
+
+@media screen and (max-width: 720px) {
+    .interactive__youtube {
+        gap: 60px;
+    }
+}
+
+@media screen and (max-width: 500px) {
+    .interactive__youtube {
+       flex-direction: column;
+        align-self: flex-end;
+        gap: 0;
+    }
+}

@@ -1,5 +1,26 @@
 .footer__about {
     display: flex;
     flex-direction: row;
-    gap: 100px;
+    padding-top: 62px;
+    grid-column: 3/4;
+    grid-row: 2/2;
+}
+
+@media screen and (max-width: 1050px){
+    .footer__about {
+        padding-left: 150px;
+        grid-column: 2;
+    }
+}
+
+@media screen and (max-width: 930px){
+    .footer__about {
+        padding-left: 130px;
+    }
+}
+
+@media screen and (max-width: 880px){
+    .footer__about {
+        display: none;
+    }
 }

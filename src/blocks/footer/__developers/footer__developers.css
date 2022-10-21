@@ -1,7 +1,23 @@
 .footer__developers {
     display: flex;
+    flex-direction: row;
+    min-width: 389px;
+    max-height: 36px;
+    justify-content: flex-end;
 }
 
 .footer__developers p {
-    margin: 0 32px 0 0;
+    margin: 0;
 }
+
+.footer__developers p:first-of-type {
+    margin: 0 32px 0 10px;
+}
+
+@media screen and (max-width: 880px){
+    .footer__developers {
+        display: none;
+    }
+}
+
+

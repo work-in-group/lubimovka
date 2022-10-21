@@ -1,8 +1,28 @@
 .footer__conf {
     display: flex;
+    flex-direction: row;
+    min-width: 383px;
     gap: 32px;
 }
 
 .footer__conf p {
     margin: 0;
 }
+
+@media screen and (max-width: 880px) {
+    .footer__conf {
+        padding-right: 0;
+        grid-column: 1/3;
+        margin: 32px 0 0 40px;
+        min-width: 255px;
+        max-width: 255px;
+    }
+
+    .footer__conf:nth-child(3n) {
+        margin: 10px 0 59px 40px;
+        text-decoration: underline;
+        color: #242424;
+    }
+}
+
+

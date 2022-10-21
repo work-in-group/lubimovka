@@ -1,10 +1,28 @@
 .footer {
     background-color: #ECEBE8;
-    padding: 42px 0 54px 32px;
     font-family: 'FormularLight', 'Inter','sans-serif';
     color: #242424;
     font-style: normal;
     font-weight: 300;
     font-size: 14px;
     line-height: 17px;
+    padding: 48px 92px 54px 0;
+    display: grid;
+    grid-template-columns: 210px max-content 1fr;
+    grid-template-rows: min-content min-content min-content;
+}
+
+@media screen and (max-width: 1360px) {
+    .footer{
+        grid-template-columns: minmax(155px, max-content) minmax(200px, max-content) minmax(min-content, max-content);
+        padding: 0 0 54px;
+    }
+}
+
+@media screen and (max-width: 1050px){
+    .footer{
+        grid-template-columns: 155px minmax(200px, max-content) minmax(min-content, max-content);
+        grid-template-rows: min-content min-content min-content;
+        justify-content: center;
+    }
 }

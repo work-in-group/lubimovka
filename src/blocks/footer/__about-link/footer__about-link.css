@@ -6,3 +6,23 @@
 .footer__about-link:hover {
     text-decoration: underline;
 }
+
+.footer__about-link:last-of-type {
+    padding: 0;
+}
+
+@media screen and (max-width: 880px) {
+    .footer__about-link {
+        font-size: 18px;
+        line-height: 23px;
+        padding: 0 0 13px 0;
+    }
+}
+
+@media screen and (max-width: 350px) {
+    .footer__about-link {
+        font-size: 15px;
+        line-height: 20px;
+    }
+}
+
