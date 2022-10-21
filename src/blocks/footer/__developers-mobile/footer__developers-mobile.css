@@ -1,0 +1,18 @@
+@media screen and (max-width: 880px) {
+    .footer__developers-mobile {
+        display: grid;
+        grid-column: 1;
+        grid-template-columns: 27px 1fr;
+        row-gap: 19px;
+        margin: 0 0 16px 40px;
+        align-self: flex-end;
+        min-width: 255px;
+        max-width: 255px;
+        align-items: center;
+    }
+}
+
+.footer__developers-mobile a {
+    text-decoration: underline;
+    color: #242424;
+}

@@ -32,3 +32,9 @@
 @import url(../blocks/footer/__conf/footer__conf.css);
 @import url(../blocks/footer/__authors/footer__authors.css);
 @import url(../blocks/footer/__developers/footer__developers.css);
+@import url(../blocks/footer/__mobile/footer__mobile.css);
+@import url(../blocks/footer/__partner-logo-mobile/footer__partner-logo-mobile.css);
+@import url(../blocks/footer/__logo-mobile/footer__logo-mobile.css);
+@import url(../blocks/footer/__about-links-mobile/footer__about-links-mobile.css);
+@import url(../blocks/footer/__developers-mobile/footer__developers-mobile.css);
+@import url(../blocks/footer/__menu/footer__menu.css);

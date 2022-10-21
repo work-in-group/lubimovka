@@ -15,7 +15,7 @@
     justify-content: space-between;
     text-transform: uppercase;
     text-align:center;
-    margin:30px 0;
+    margin: 30px 0 20px 0;
     background-image: linear-gradient(to left,transparent,transparent 50%,#242424 50%,#242424);
     background-position: 100% 0;
     background-size: 200% 100%;
@@ -25,9 +25,24 @@
     transition: all .3s ease-in;
     background-position: 0 0;
     color: #ECEBE8;
+    stroke: #ECEBE8;
+    fill: #ECEBE8;
 }
 
 .interactive__button:active {
     transition: all .1s ease-in;
     transform: scale(1.03);
+}
+
+@media screen and (max-width: 430px) {
+    .interactive__button {
+        margin-top: 16px;
+        margin-bottom: 0;
+    }
+}
+
+@media screen and (max-width: 330px) {
+    .interactive__button {
+        max-width: 250px;
+    }
 }

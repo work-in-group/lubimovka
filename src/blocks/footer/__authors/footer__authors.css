@@ -1,5 +1,27 @@
 .footer__authors {
+    margin: 49px 0 0 0;
     display: flex;
     justify-content: space-between;
-    margin: 49px 92px 0 175px;
+    grid-column: 2/4;
+    grid-row: 3/4;
+}
+
+@media screen and (max-width: 1050px){
+    .footer__authors {
+        padding-left: 32px;
+        grid-column: 1;
+        gap: 100px;
+    }
+}
+
+@media screen and (max-width: 930px){
+    .footer__authors {
+        gap: 50px;
+    }
+}
+
+@media screen and (max-width: 880px){
+    .footer__authors {
+        display: none;
+    }
 }

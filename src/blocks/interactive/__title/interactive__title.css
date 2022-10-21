@@ -9,3 +9,24 @@
     margin: 0;
     align-items: flex-start;
 }
+
+@media screen and (max-width: 1280px) {
+    .interactive__title {
+        font-size: 35px;
+        line-height: 30px;
+    }
+}
+
+@media screen and (max-width: 1140px) {
+    .interactive__title {
+        font-size: 30px;
+        line-height: 30px;
+    }
+}
+
+@media screen and (max-width: 430px) {
+    .interactive__title {
+        font-size: 28px;
+        line-height: 32px;
+    }
+}

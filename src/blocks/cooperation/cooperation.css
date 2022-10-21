@@ -4,3 +4,27 @@
     padding:100px 222px 169px 692px;
     margin: 0;
 }
+
+@media screen and (max-width: 1310px) {
+    .cooperation {
+        padding: 90px 200px 160px 550px;
+    }
+}
+
+@media screen and (max-width: 1140px) {
+    .cooperation {
+        padding: 80px 80px 150px 400px;
+    }
+}
+
+@media  screen and (max-width: 850px){
+    .cooperation {
+        padding: 80px 80px 150px 300px;
+    }
+}
+
+@media screen and (max-width: 750px) {
+    .cooperation {
+        padding: 76px 24px 148px 57px;
+    }
+}

@@ -1,7 +1,87 @@
 .cooperation__asterisk {
     position: absolute;
-    bottom: 396px;
+    bottom: 379px;
     left: 667px;
     max-width: 25px;
     max-height: 25px;
 }
+
+@media screen and (max-width: 1310px) {
+    .cooperation__asterisk {
+        bottom: 371px;
+        left: 524px;
+    }
+}
+
+@media screen and (max-width: 1280px) {
+    .cooperation__asterisk {
+        bottom: 357px;
+        left: 524px;
+    }
+}
+
+@media screen and (max-width: 1180px) {
+    .cooperation__asterisk {
+        bottom: 367px;
+        left: 524px;
+    }
+}
+
+@media screen and (max-width: 1140px) {
+    .cooperation__asterisk {
+        max-width: 23px;
+        max-height: 23px;
+        bottom: 317px;
+        left: 377px;
+    }
+}
+
+@media screen and (max-width: 1010px) {
+    .cooperation__asterisk {
+        bottom: 339px;
+        left: 377px;
+    }
+}
+
+@media screen and (max-width: 910px) {
+    .cooperation__asterisk {
+        bottom: 349px;
+        left: 377px;
+    }
+}
+
+@media screen and (max-width: 850px) {
+    .cooperation__asterisk {
+        bottom: 339px;
+        left: 277px;
+    }
+}
+
+@media screen and (max-width: 810px) {
+    .cooperation__asterisk {
+        bottom: 349px;
+        left: 277px;
+    }
+}
+
+@media screen and (max-width: 750px) {
+    .cooperation__asterisk {
+        bottom: 348px;
+        left: 33px;
+    }
+}
+
+@media screen and (max-width: 430px) {
+    .cooperation__asterisk {
+        bottom: 347px;
+        left: 27px;
+    }
+}
+
+@media screen and (max-width: 350px) {
+    .cooperation__asterisk {
+        bottom: 378px;
+        left: 36px;
+    }
+}
+

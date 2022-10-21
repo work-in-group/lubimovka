@@ -9,3 +9,19 @@
     max-height: 120px;
     margin: 0 0 0 58px;
 }
+
+@media screen and (max-width: 1280px) {
+    .cooperation__subtitle {
+        font-size: 18px;
+        line-height: 22px;
+    }
+}
+
+@media screen and (max-width: 750px) {
+    .cooperation__subtitle {
+        font-size: 20px;
+        line-height: 24px;
+        max-width: 320px;
+        margin: 0;
+    }
+}

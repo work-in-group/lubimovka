@@ -1,5 +1,10 @@
 .footer__partner {
-    margin: 0;
-    max-width: 145px;
     max-height: 34px;
+    margin: 0;
+}
+
+@media (max-width: 880px) {
+    .footer__partner {
+        margin: 18px 0 33px 0;
+    }
 }
