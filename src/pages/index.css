@@ -2,6 +2,41 @@
 @import url(../vendor/fonts/fonts.css);
 @import url(../blocks/page/page.css);
 
+@import url(../blocks/header/header.css);
+@import url(../blocks/header/__logo-link/header__logo-link.css);
+@import url(../blocks/header/__logo/header__logo.css);
+@import url(../blocks/header/__menu/header__menu.css);
+@import url(../blocks/header/__item/header__item.css);
+@import url(../blocks/header/__links/header__links.css);
+@import url(../blocks/header/__link/header__link.css);
+@import url(../blocks/header/__support/header__support.css);
+@import url(../blocks/header/__plus/header__plus.css);
+@import url(../blocks/header/__plus-text/header__plus-text.css);
+
+@import url(../blocks/info/info.css);
+@import url(../blocks/info/__button/info__button.css);
+@import url(../blocks/info/__button-text/info__button-text.css);
+@import url(../blocks/info/__button-pointer/info__button-pointer.css);
+@import url(../blocks/info/__text/info__text.css);
+@import url(../blocks/info/__container/info__container.css);
+@import url(../blocks/info/__title/info__title.css);
+@import url(../blocks/info/__image/info__image.css);
+
+@import url(../blocks/about-project/about-project.css);
+@import url(../blocks/about-project/__title/about-project__title.css);
+@import url(../blocks/about-project/__text/about-project__text.css);
+
+@import url(../blocks/video/video.css);
+@import url(../blocks/video/__title/video__title.css);
+@import url(../blocks/video/__title/_type/video__title_type_more-videos.css);
+@import url(../blocks/video/__item/video__item.css);
+@import url(../blocks/video/__item/__type/video__item_type_two-videos.css);
+@import url(../blocks/video/__item/__type/video__item_type_three-videos.css);
+@import url(../blocks/video/__description/video__description.css);
+@import url(../blocks/video/__wrapper/video__wrapper.css);
+@import url(../blocks/video/__wrapper/_type/video__wrapper_type_two-videos.css);
+@import url(../blocks/video/__wrapper/_type/video__wrapper_type_three-videos.css);
+
 @import url(../blocks/performance/performance.css);
 @import url(../blocks/performance/__title/perfomance__title.css);
 @import url(../blocks/performance/__image/performance__image.css);
@@ -72,6 +107,4 @@
 @import url(../blocks/footer/__about-links-mobile/footer__about-links-mobile.css);
 @import url(../blocks/footer/__developers-mobile/footer__developers-mobile.css);
 @import url(../blocks/footer/__menu/footer__menu.css);
-
-
 
